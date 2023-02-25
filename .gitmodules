@@ -1,0 +1,42 @@
+[submodule "third_party/tgcalls"]
+	path = third_party/tgcalls
+	url = https://github.com/TelegramMessenger/tgcalls
+[submodule "third_party/libtgvoip"]
+	path = third_party/libtgvoip
+	url = https://github.com/TGX-Android/libtgvoip.git
+[submodule "third_party/webrtc"]
+	path = third_party/webrtc
+	url = https://github.com/TGX-Android/webrtc
+[submodule "third_party/opus"]
+	path = third_party/opus
+	url = https://github.com/xiph/opus.git
+[submodule "third_party/rnnoise"]
+	path = third_party/rnnoise
+	url = https://github.com/TGX-Android/rnnoise
+[submodule "third_party/pffft"]
+	path = third_party/pffft
+	url = https://github.com/TGX-Android/pffft
+[submodule "third_party/crc32c"]
+	path = third_party/crc32c
+	url = https://github.com/google/crc32c
+[submodule "third_party/libevent"]
+	path = third_party/libevent
+	url = https://github.com/TGX-Android/libevent
+[submodule "third_party/libyuv"]
+	path = third_party/libyuv
+	url = https://chromium.googlesource.com/libyuv/libyuv
+[submodule "third_party/usrsctp"]
+	path = third_party/usrsctp
+	url = https://github.com/sctplab/usrsctp
+[submodule "third_party/libsrtp"]
+	path = third_party/libsrtp
+	url = https://github.com/cisco/libsrtp
+[submodule "third_party/openh264"]
+	path = third_party/openh264
+	url = https://github.com/cisco/openh264
+[submodule "third_party/abseil-cpp"]
+	path = third_party/abseil-cpp
+	url = https://github.com/abseil/abseil-cpp
+[submodule "third_party/boringssl"]
+	path = third_party/boringssl
+	url = https://github.com/google/boringssl
